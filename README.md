@@ -1,1 +1,1 @@
-# EdgeTrainingFInalProject
+# EdgeTrainingFinalProject
